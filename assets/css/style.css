@@ -99,27 +99,40 @@ header {
     width: 30%;
     padding-right: 17px;
     padding-left: 10px;
-    padding-bottom: 10px;
+    padding-bottom: 7px;
 }
 
 .main p {
 	float: right;
     margin-right: 35px;
     margin-left: 35px;
+    line-height: 25px;
 	
 }
 
+.contact {
+	padding-left: 30px;
+}
+
+.contact h2 {
+	margin-bottom: 10px;
+}
+
+.contact input {
+	background-color: #ffffff;
+	border-color: #dddddd;
+}
 
  .social {
- 	background-color: #ffffff;
- 	border-color: #dddddd;
- 	border-width: 1px;
- 	border-style: solid;
- 	float: right;
- 	width: 22%;
- 	margin-right: 275px;
- 	margin-top: 45px;
- 	height: 195px;
+	background-color: #ffffff;
+	border-color: #dddddd;
+	border-width: 1px;
+	border-style: solid;
+	float: right;
+	width: 307px;
+	margin-right: 175px;
+	margin-top: 45px;
+	height: 195px;
  }
 
  .social h4 {
