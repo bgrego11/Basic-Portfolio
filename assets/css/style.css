@@ -79,7 +79,7 @@ header {
 	float: left;
 	margin-left: 125px;
 	width: 650px;
-	height: 420px;
+	height: 460px;
 	margin-top: 45px;
 	}
 
@@ -98,10 +98,10 @@ header {
 }
 .main img {
 	float: left;
-    width: 30%;
-    padding-right: 17px;
+    width: 35%;
+    padding-right: 15px;
     padding-left: 10px;
-    padding-bottom: 7px;
+    padding-bottom: 10px;
 }
 
 .main p {
@@ -109,6 +109,7 @@ header {
     margin-right: 35px;
     margin-left: 35px;
     line-height: 25px;
+    color: #777777;
 	
 }
 
@@ -131,6 +132,7 @@ header {
 	border-width: 1px;
 	font-family: 'Arial';
 	color: #777777;
+	padding: 5px;
 }
 
 .contact textarea {
@@ -146,13 +148,13 @@ header {
 
 .contact button {
 	background-color: #4aaaa5;
-	margin-top: 15px;
-	color: white;
-	border-style: none;
-	font-family: 'arial';
-	height: 26px;
-	width: 104px;
-	font-size: 20px;
+    margin-top: 15px;
+    color: white;
+    border-style: none;
+    font-family: 'arial';
+    height: 34px;
+    width: 109px;
+    font-size: 20px;
 }
 
  .social {
@@ -160,31 +162,36 @@ header {
 	border-color: #dddddd;
 	border-width: 1px;
 	border-style: solid;
-	float: right;
+	float: left;
 	width: 307px;
-	margin-right: 175px;
+	margin-left: 100px;
 	margin-top: 45px;
 	height: 195px;
  }
 
  .social h4 {
- 	color: #4aaaa5;
- 	font-size: 28px;
- 	text-align: center;
- 	padding-top: 20px;
- 	padding-bottom: 20px;
- 	border-bottom: 2px solid #e7e7e7;
- 	margin-right: 15%;
- 	margin-left: 15%;
+	color: #4aaaa5;
+    font-size: 24px;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-bottom: 2px solid #e7e7e7;
+    margin-right: 15%;
+    margin-left: 15%;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    font-weight: bold;
 
  }
 
  .icons {
- 	padding-left: 58px;
+ 	margin-left: 14%;
+    margin-right: 10%;
  	padding-top: 25px;
+
  }
 
  .icons a {
  	padding-right: 5px;
  	padding-left: 5px;
+ 	width: 33.3%;
  }
