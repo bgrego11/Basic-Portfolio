@@ -1,9 +1,11 @@
 * {
   box-sizing: border-box;
+  max-width: 960px;
  }
 
  body {
  	background-image: url("../images/cork-wallet.png");
+
 
  }
 
@@ -163,7 +165,7 @@ header {
 	border-width: 1px;
 	border-style: solid;
 	float: left;
-	width: 307px;
+	width: 270px;
 	margin-left: 100px;
 	margin-top: 45px;
 	height: 195px;
